@@ -1,0 +1,79 @@
+$date
+	Mon Nov 12 09:59:42 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ms
+$end
+$scope module MUX8to1_tb $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var reg 1 $ c $end
+$var reg 1 % d $end
+$var reg 1 & e $end
+$var reg 1 ' f $end
+$var reg 1 ( g $end
+$var reg 1 ) h $end
+$var reg 1 * s0 $end
+$var reg 1 + s1 $end
+$var reg 1 , s2 $end
+$scope module myMUX $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % d $end
+$var wire 1 & e $end
+$var wire 1 ' f $end
+$var wire 1 ( g $end
+$var wire 1 ) h $end
+$var wire 1 * s0 $end
+$var wire 1 + s1 $end
+$var wire 1 , s2 $end
+$var reg 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0,
+0+
+0*
+0)
+1(
+0'
+1&
+0%
+1$
+0#
+1"
+1!
+$end
+#10
+0!
+1,
+#20
+1!
+0,
+1+
+#30
+0!
+1,
+#40
+1!
+0,
+0+
+1*
+#50
+0!
+1,
+#60
+1!
+0,
+1+
+#70
+0!
+1,
+#80
